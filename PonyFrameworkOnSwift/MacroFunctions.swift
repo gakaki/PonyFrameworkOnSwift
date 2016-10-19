@@ -16,7 +16,7 @@ public func MGRgb(_ r:CGFloat,g:CGFloat,b:CGFloat,alpha:CGFloat = 1) -> UIColor{
 
 
 public func kkLog(){
-    debugPrint("123")
+    debugPrint("12344")
 }
 
 
