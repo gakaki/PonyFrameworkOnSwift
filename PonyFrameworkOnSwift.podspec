@@ -7,6 +7,9 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/gakaki/PonyFrameworkOnSwift"
   s.license      = "MIT"
 
+  s.ios.deployment_target = '9.0'
+  s.frameworks = 'UIKit'
+
 
   s.author      = { "ponycoder" => "571533442@qq.com" }
 
